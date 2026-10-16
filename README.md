@@ -43,7 +43,6 @@ I'm a data analyst who came to data through web development, so I like building 
 <p align="center">
   <img src="https://img.shields.io/github/stars/aadilprabhakar?affiliations=OWNER&style=flat-square&logo=github&label=Total%20stars" alt="Total stars"/>
   <img src="https://img.shields.io/github/followers/aadilprabhakar?style=flat-square&logo=github&label=Followers" alt="Followers"/>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=aadilprabhakar.aadilprabhakar&left_text=Profile%20views" alt="Profile views"/>
 </p>
 
 ### Let's connect
